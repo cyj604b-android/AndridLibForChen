@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndridLibForChen.iml" filepath="$PROJECT_DIR$/AndridLibForChen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andridlibforchen/andridlibforchen.iml" filepath="$PROJECT_DIR$/andridlibforchen/andridlibforchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andridlibforchentest/andridlibforchentest.iml" filepath="$PROJECT_DIR$/andridlibforchentest/andridlibforchentest.iml" />
+    </modules>
+  </component>
+</project>
